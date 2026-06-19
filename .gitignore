@@ -1,0 +1,34 @@
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Build and Dependency directories
+node_modules/
+bower_components/
+build/
+dist/
+out/
+bin/
+obj/
+
+# Environment secrets and local configs
+.exe
+.env
+.env.local
+.env.*.local
+*.local.properties
